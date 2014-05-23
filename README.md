@@ -3,7 +3,7 @@ Ass.js (Uma Assinatura da Romae)
 
 ## Romae
 
-Criando uma assinatura da Romae para os sites desenvolvidos por ela com Javacript.
+Criando uma assinatura da [Romae](http://www.romae.com.br) para os sites desenvolvidos por ela com Javacript.
 
 Para adicionar ao site, basta colocar no footer o seguinte comando:
 
