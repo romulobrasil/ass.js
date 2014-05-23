@@ -11,4 +11,4 @@ Para adicionar ao site, basta colocar no footer o seguinte comando:
 <script src="http://romae.com.br/js/ass.min.js"></script>
 ```
 
-Confira o exemplo (demo) em [Rômulo Brasil](http//romulobrasil.com).
+Confira o exemplo (demo) em [Rômulo Brasil](http://romulobrasil.com).
