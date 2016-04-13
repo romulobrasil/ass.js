@@ -14,7 +14,7 @@ var Ass = function() {
             var ass = document.createElement('a');
             ass.href = 'http://www.romae.com.br';
             ass.className = 'romae';
-            ass.title = 'Desenvolvido por Romae';
+            ass.title = 'Desenvolvido pela Romae';
             ass.target = '_blank';
             ass.innerHTML = 'Romae - Agência de Marketing Digital em Fortaleza';
             
@@ -53,5 +53,3 @@ var Ass = function() {
     };
 }();
 Ass.init();
-
-
